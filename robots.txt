@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emileros1971-blip.github.io/iskopbeograd/sitemap.xml
